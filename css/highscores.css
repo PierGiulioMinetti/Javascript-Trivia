@@ -1,0 +1,11 @@
+#highScoreList{
+    list-style: none;
+}
+
+li{
+    font-size: 2rem;
+    padding: 10px 0;
+    margin: 10px 0;
+    border-top: 1px solid rgb(31, 122, 240);
+    border-bottom: 1px solid rgb(31, 122, 240);
+}
